@@ -1,0 +1,99 @@
+commit 2403f3297a617234abf919745e8cb021a6cd6f96
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 18:19:54 2024 -0400
+
+    Adding two paragraph
+
+commit 5dd761f98e348b5d8d1e28b26d64c68516478ae9
+Merge: 8aaf895 c150746
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 18:18:19 2024 -0400
+
+    Version 4
+
+commit 8aaf895f1af07dbe9e044e3c69cdf87513685a48
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 18:07:32 2024 -0400
+
+    Adding the seasons with numbering
+
+commit c150746ac5e6304109a4b1800c75f30d5aa59516
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 18:07:32 2024 -0400
+
+    adding the seasons of the year
+
+commit 83aa00f79f4edb50b646dba2d60ccffccce25d9d
+Merge: ce50a99 55a143d
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 18:02:36 2024 -0400
+
+    resolver conflict
+
+commit 55a143ddafa93b9b5bcec48b51d3ae7f08e96078
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 17:58:25 2024 -0400
+
+    Version 3.2 con index.js
+
+commit ce50a99a5f16c7d588974e84236a1215c275cb63
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 17:57:03 2024 -0400
+
+    Version 3
+
+commit 0bb544f2f80e490f24ca10adea628f79e6780265
+Merge: a2cc9e9 402eda0
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 00:47:19 2024 -0400
+
+    Merge branch 'js'
+
+commit 402eda0c2d163e4b311d9e94c1260987cce4568c
+Merge: 6f9de1f 6eaa708
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 00:43:55 2024 -0400
+
+    Merge branch 'html' into js
+
+commit 6f9de1f623b07414a2f1f811326a8ffa79729cb7
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 00:31:48 2024 -0400
+
+    test3
+
+commit a2cc9e9d2bc539d0612bf8da938c078e4a609cb7
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 00:28:27 2024 -0400
+
+    Test2 for css
+
+commit 6eaa70832780c121438f6c34b11cbab462734cec
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Mon Jul 15 00:24:29 2024 -0400
+
+    Test1
+
+commit 5ca2f8e9a19be966eaf687a4ee72ddaa9437a057
+Author: Marcelo Flores <c1floresmarcelo@gmail.com>
+Date:   Sun Jul 14 11:52:32 2024 -0400
+
+    Creating repository license
+
+commit 85be950cc0569912a6809806b58c10b6dad780d5
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Sun Jul 14 11:41:12 2024 -0400
+
+    Second version
+
+commit 07071f4500a5348edbb777c9ae903722975f264a
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Sun Jul 14 11:29:05 2024 -0400
+
+    Adding initial content
+
+commit 5ab7cf5f7d601f1617c4720361d9e5222b8bdd8f
+Author: mrfloresm <c1floresmarcelo@gmail.com>
+Date:   Sun Jul 14 11:24:27 2024 -0400
+
+    First commit
